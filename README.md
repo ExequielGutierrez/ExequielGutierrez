@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Exequiel Gutierrez
+# Hi, I'm Exequiel Gutierrez
 
 🎮 **Lua Gameplay / Game Systems Developer**
 
@@ -8,7 +8,7 @@ I currently work on a live MMORPG server where I develop gameplay content, scrip
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 - Lua Gameplay Programming
 - Combat Systems
@@ -21,9 +21,9 @@ I currently work on a live MMORPG server where I develop gameplay content, scrip
 
 ---
 
-## 🎮 Featured Projects
+## Featured Projects
 
-### ⚔️ CombatEngine
+### CombatEngine
 Modular combat system written in Lua.
 
 Features:
@@ -37,7 +37,7 @@ https://github.com/ExequielGutierrez/CombatEngine
 
 ---
 
-### 💰 GoldMaker
+### GoldMaker
 Automated item selling addon with persistent configuration system.
 
 Features:
@@ -51,7 +51,7 @@ https://github.com/ExequielGutierrez/GoldMaker
 
 ---
 
-### 🐱 KillCat (Roblox Game)
+### KillCat (Roblox Game)
 Experimental Lua game implementing PvE and PvP mechanics.
 
 Features:
@@ -75,7 +75,7 @@ https://github.com/ExequielGutierrez
 
 ---
 
-## 🌍 Looking for
+## Looking for
 
 Remote opportunities as:
 
