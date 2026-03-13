@@ -1,6 +1,6 @@
 # Hi, I'm Exequiel Gutierrez
 
-🎮 **Lua Gameplay / Game Systems Developer**
+**Lua Gameplay / Game Systems Developer**
 
 I specialize in developing gameplay systems, combat mechanics, NPC AI and UI scripting for MMORPG environments.
 
