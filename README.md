@@ -1,10 +1,10 @@
 # Hi, I'm Exequiel Gutierrez
 
-**Lua Gameplay / Game Systems Developer**
+Lua Gameplay / Game Systems Developer
 
 I specialize in developing gameplay systems, combat mechanics, NPC AI and UI scripting for MMORPG environments.
 
-I currently work on a live MMORPG server where I develop gameplay content, scripting systems and user interface features using **Lua and XML**.
+I currently work on a live MMORPG server where I develop gameplay content, scripting systems and user interface features using Lua and XML.
 
 ---
 
@@ -23,7 +23,32 @@ I currently work on a live MMORPG server where I develop gameplay content, scrip
 
 ## Featured Projects
 
+### MyPrint (Mobile App)
+
+Social mobile application built with Flutter and Firebase, focused on user interaction, real-time features, and scalable backend architecture.
+
+Features:
+- User authentication
+- Profile system
+- Real-time chat
+- Social interactions (likes, follows)
+- Cloud storage integration
+- Secure Firestore rules with fine-grained access control
+
+Tech:
+- Flutter
+- Firebase (Authentication, Firestore, Storage)
+
+Repository:
+https://github.com/ExequielGutierrez/Prints
+
+Google Play:
+https://play.google.com/store/apps/details?id=com.myprint.app.myprint&hl=en
+
+---
+
 ### CombatEngine
+
 Modular combat system written in Lua.
 
 Features:
@@ -32,12 +57,13 @@ Features:
 - Modular architecture
 - Designed for real-time gameplay systems
 
-Repo:
+Repository:
 https://github.com/ExequielGutierrez/CombatEngine
 
 ---
 
 ### GoldMaker
+
 Automated item selling addon with persistent configuration system.
 
 Features:
@@ -46,12 +72,13 @@ Features:
 - Hyperlink integration
 - Persistent data storage
 
-Repo:
+Repository:
 https://github.com/ExequielGutierrez/GoldMaker
 
 ---
 
 ### KillCat (Roblox Game)
+
 Experimental Lua game implementing PvE and PvP mechanics.
 
 Features:
@@ -66,9 +93,9 @@ https://www.roblox.com/es/games/108303371127607/KIllCat
 
 ---
 
-## 🔧 Other Projects
+## Other Projects
 
-Web & software projects developed during my programming studies.
+Web and software projects developed during my programming studies.
 
 GitHub:
 https://github.com/ExequielGutierrez
